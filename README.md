@@ -1,5 +1,9 @@
 # Machine-Learning
-My first Private repository for some private projects
+This repository is my first public repositories I want to share. 
+
+I will try to upload one project a week. Many of the projects are based on Interests I have & wish to share with everyone.
+
+I will also try to explain & elaborate on my work here for educational purposes.
 
 # Data Visualisation
 using t-SNE & sklearn to visualize into 2 dimensions a data set with 70 features. The data set is a monitored body during an exercise.
