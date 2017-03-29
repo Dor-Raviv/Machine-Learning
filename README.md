@@ -8,7 +8,7 @@ I will also try to explain & elaborate on my work here for educational purposes.
 # Data Visualisation
 
 <div align="center">
-  <img src="https://lh5.googleusercontent.com/sAeKc1L_NZJQ3P_kVlHtH9oX7VpbTJzj8csNriX3ThWmHpekhwokVCfrsZblgmi87Kt99RLirsGdWqY=w1920-h950-rw"><br><br>
+  <img src="https://s18.postimg.org/yjab7kd7t/t-sne.png"><br><br>
 </div>
 
 using t-SNE & sklearn to visualize into 2 dimensions a data set with 70 features. The data set is a monitored body during an exercise.
